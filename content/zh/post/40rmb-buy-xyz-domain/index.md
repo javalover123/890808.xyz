@@ -4,9 +4,9 @@
 title: "手把手教你40元买一个xyz数字域名"
 subtitle: ""
 summary: ""
-authors: []
+authors: ["javalover123@foxmail.com"]
 tags: ["xyz", "域名", "建站"]
-categories: []
+categories: ["建站"]
 date: 2020-03-15T09:57:22+08:00
 lastmod: 2020-03-15T09:57:22+08:00
 featured: false
