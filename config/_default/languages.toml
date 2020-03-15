@@ -18,3 +18,32 @@
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+
+
+# Uncomment the lines below to configure your website in a second language.
+[zh]
+  languageCode = "zh-Hans"
+  contentDir = "content/zh"
+  title = "桐桐桐的博客"
+  [zh.params]
+    description = "软件攻城狮，熟悉Java，了解hive等。还了解点保险。"
+
+  [[zh.menu.main]]
+    name = "主页"
+    url = "#about"
+    weight = 10
+
+  [[zh.menu.main]]
+    name = "文章"
+    url = "#posts"
+    weight = 20
+
+  [[zh.menu.main]]
+    name = "项目"
+    url = "#projects"
+    weight = 30
+
+  [[zh.menu.main]]
+    name = "联系我"
+    url = "#contact"
+    weight = 60
